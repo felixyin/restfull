@@ -2,7 +2,11 @@
 
 spring mvc 对 restfull 的支持例子
 
-# 环境
+## 视频
+
+http://qtrj.i234.me:900//vs/sharing/bSBxGKGj
+
+## 环境
 
 - java8
 - maven
